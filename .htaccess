@@ -1,0 +1,2 @@
+# Deny all access at project root - the public/ directory is the document root.
+Require all denied
